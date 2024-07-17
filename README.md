@@ -55,7 +55,7 @@ The File Sharing App is a backend application built using Java Spring Boot that 
 
 ### API Endpoints
 - **User Registration**: `POST /register`
-- **User Login**: `POST login`
+- **User Login**: `POST /login`
 
 ## Usage
 1. **Register a new user** via the registration endpoint.
