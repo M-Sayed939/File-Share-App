@@ -30,7 +30,7 @@ The File Sharing App is a backend application built using Java Spring Boot that 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/file-sharing-app.git](https://github.com/M-Sayed939/File-Share-App.git)
+   git clone https://github.com/M-Sayed939/File-Share-App.git
    cd file-sharing-app
    ```
 
